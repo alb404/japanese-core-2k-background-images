@@ -20,6 +20,9 @@ Thanks to the authors of the original core 2K set. Also thanks to the author of 
 ## More preview
 
 ![demo](https://raw.githubusercontent.com/alb404/japanese-core-2k-background-images/main/img/core2k-background-1147.png)
+![demo](https://raw.githubusercontent.com/alb404/japanese-core-2k-background-images/main/img_light/core2k_screensaver-light-1147.png)
 ![demo](https://raw.githubusercontent.com/alb404/japanese-core-2k-background-images/main/img/core2k-background-0425.png)
+![demo](https://raw.githubusercontent.com/alb404/japanese-core-2k-background-images/main/img_light/core2k_screensaver-light-0425.png)
 ![demo](https://raw.githubusercontent.com/alb404/japanese-core-2k-background-images/main/img/core2k-background-0462.png)
+![demo](https://raw.githubusercontent.com/alb404/japanese-core-2k-background-images/main/img_light/core2k_screensaver-light-0462.png)
 ![demo](https://raw.githubusercontent.com/alb404/japanese-core-2k-background-images/main/img/core2k-background-0616.png)
